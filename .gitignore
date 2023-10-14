@@ -8,4 +8,4 @@
 /.vs/platformio/v17/Browse.VC.db-shm
 /.vs/platformio/v17/Browse.VC.db-wal
 /.vs/platformio/v17/Browse.VC.opendb
-/.vs/platformio/FileContentIndex
+/.vs/platformio/**
