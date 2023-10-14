@@ -3,3 +3,9 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+/.vs/platformio/v17
+/.vs/platformio/v17/Browse.VC.db
+/.vs/platformio/v17/Browse.VC.db-shm
+/.vs/platformio/v17/Browse.VC.db-wal
+/.vs/platformio/v17/Browse.VC.opendb
+/.vs/platformio/FileContentIndex
